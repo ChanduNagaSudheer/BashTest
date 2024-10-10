@@ -8,3 +8,4 @@ Feature: To test the bash script
     Examples:
     |First_name|Last_Name|
     |chandu    |naga sudheer|
+    |chandu    |naga sudheer|

@@ -2,7 +2,7 @@ package org.example.Implementation;
 
 import io.cucumber.java.en.*;
 import org.junit.Assert;
-import org.junit.Test;
+
 
 public class Scenarios {
     @When("i have printed few lines {string}")
